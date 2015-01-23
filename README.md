@@ -21,6 +21,6 @@ Its a CodeIgniter helper library. It helps you get all the countries.
   1. Download country_helper.php file and add it in application/helper/ folder.
   2. Load the helper file autoload.php or in a particular controller.(Your wish)
    ```
-   $this->load->helper('country'); // Don't put helper and .php extension.
+   $this->load->helper('country'); // Don't add helper and .php extension.
    ```
   3. Call the above methods to get country information.
