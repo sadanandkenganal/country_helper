@@ -1,5 +1,5 @@
 # country_helper
-Its a CodeIgniter helper library. It helps you get all countries list.
+Its a CodeIgniter helper library. It helps you get all the countries list.
 
 #There are three useful components on this page:
 
